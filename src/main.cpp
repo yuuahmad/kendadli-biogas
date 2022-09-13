@@ -42,7 +42,7 @@ const int enKiri = 8;
 const int pwmKanan = 6;
 const int pwmKiri = 9;
 
-// TERIMA DADTAl;;;;;;]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]''''''''''''''\0bool parsing = false;
+bool parsing = false;
 String sData, data[10];
 
 void setup()
